@@ -1,0 +1,56 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="F:/miracle-server" />
+        <option value="E:/My_Projects/project_1" />
+        <option value="E:/myprojects" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="F:/miracle-server" />
+      </list>
+    </option>
+    <option name="lastPath" value="F:/miracle-server" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="E:/My_Projects/project_1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4323.46" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1545294673242" />
+              <option name="buildTimestamp" value="1535992576076" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/myprojects">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4323.46" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1543912185848" />
+              <option name="buildTimestamp" value="1535992576076" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/miracle-server">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-182.4323.46" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1546418388408" />
+              <option name="buildTimestamp" value="1535992576076" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="E:/My_Projects" />
+  </component>
+</application>

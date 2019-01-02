@@ -1,0 +1,47 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.48033708" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.6242938" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Darcula.savedEditorTheme" value="Monokai Sublime Text 3" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="Enum" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.108342364" />
+    <property name="FrameworksFinderRecursivePanel[1]" value="0.12158055" />
+    <property name="FrameworksFinderRecursivePanel[2]" value="0.13850416" />
+    <property name="FrameworksFinderRecursivePanel[3]" value="0.16090104" />
+    <property name="KEYMAP" value="format" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="true" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PLUGIN_FILTER" value="lombok" />
+    <property name="SearchEveryWhereHistory" value="messagero&#10;ong&#10;class" />
+    <property name="SettingsSearchHistory" value="key&#10;keymap&#10;live&#10;font&#10;update" />
+    <property name="SpringBeansModulesPanel[0]" value="0.108342364" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="evlsprt3.182" value="12" />
+    <property name="file.chooser.recent.files" value="F:/miracle-server&#10;E:/My_Projects/project_1&#10;E:/&#10;E:/myprojects&#10;F:/miracle-server/game-server&#10;F:/tools/IDEA/MyThemes/Monokai Sublime Text 3.jar&#10;C:/Program Files/Java/jdk1.8.0_144" />
+    <property name="file.gist.reindex.count" value="13383" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="installed.kotlin.plugin.version" value="1.2.51-release-IJ2018.2-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="lastTip" value="7" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="project.wizard.template" value="Maven" />
+    <property name="search.everywhere.max.popup.width" value="680" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Java EE Names" />
+    <property name="ts.lib.d.ts.version" value="3.0.1" />
+    <property name="typescript.show.auto.import" value="true" />
+    <property name="vcs.log.changes.splitter.proportion" value="0.81023455" />
+  </component>
+</application>
